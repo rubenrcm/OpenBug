@@ -1,0 +1,8 @@
+
+Libraries used on the project:
+
+For controlling the GPIO:
+https://sourceforge.net/p/raspberry-gpio-python/wiki/Home/
+
+For controlling the display:
+https://github.com/adafruit/Adafruit_Python_SSD1306

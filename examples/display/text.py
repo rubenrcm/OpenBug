@@ -1,5 +1,5 @@
 ##
-# This example shows the image of the eyes on the display
+# This example shows some text on the display
 # Based on the examples provided by the Adafruit library
 #
 
@@ -23,7 +23,7 @@ disp.display()
 # Create blank image for drawing.
 # Make sure to create image with mode '1' for 1-bit color.
 width = disp.width
-height = disp.height
+height = disp.heightcd
 image = Image.new('1', (width, height))
 
 # Get drawing object to draw on image.
